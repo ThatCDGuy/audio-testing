@@ -1,0 +1,2 @@
+https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/dog.ogg
+https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/lobby.ogg
