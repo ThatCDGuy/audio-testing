@@ -1,4 +1,6 @@
-https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/dog.ogg,Dance of Dog
 https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/lobby.ogg,Where to Next...
 https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/rubberholic.ogg,Rubberholic
 https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/explosives.ogg,I LOVE EXPLOSVIES !!
+https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/downtime.ogg,Downtime
+https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/running.ogg,Yoinkety Sploinkus
+https://github.com/ThatCDGuy/audio-testing/raw/refs/heads/main/settings.ogg,call me mr retro
